@@ -9,4 +9,4 @@
 
 ## Objective <a name="objective"></a>
 
-The main goal of this project is to develope a data dashboard of different variables related with Australian weather.
+The main goal of this project is to develop a data dashboard of different variables related with Australian weather.
